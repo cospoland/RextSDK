@@ -1,0 +1,6 @@
+hash: 1f19353c19be815f12fe9cada211291ea1e8be55907f936f74ab62e08ee3811a
+updated: 2017-02-24T01:49:13.218503124+01:00
+imports:
+- name: github.com/valyala/fasthttp
+  version: d42167fd04f636e20b005e9934159e95454233c7
+testImports: []
